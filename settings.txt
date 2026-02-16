@@ -32,7 +32,7 @@ text_height=300.000000
 sea_text_alpha=120
 details=1.000
 }
-lastplayer="Player2"
+lastplayer="IForgotToChangeMyName"
 lasthost=""
 serveradress="diplomacy.valkyrienet.com"
 debug_saves=0
@@ -41,5 +41,5 @@ simple=no
 categories=
 {
 1 1 1 1 1 1 }
-update_time=1.000000
+update_time=3.000000
 shortcut=yes
